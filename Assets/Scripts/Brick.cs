@@ -5,9 +5,6 @@ using System.Linq;
 
 public class Brick : MonoBehaviour
 {
-    // Spawn next brick
-    // Place brick on click and cut it
-
     public Color color;
     public IMovement movement;
 
